@@ -1,76 +1,107 @@
-# fossinit
+# FOSS CDN (Can't Decide Name) v0.1.0-alpha
 
-## Welcome to the Beginner-Friendly C/C++ Bug Hunt!
+## 🚀 **Welcome to the Beginner-Friendly Bug Hunt!**
 
-If you're looking to improve your C and C++ programming skills, you're in the right place. This open-source project is designed to help beginners learn by doing. We've intentionally introduced bugs, errors, and issues into code examples, and we're inviting you to fix them!
+If you want to improve your coding skills, you're in the right place. This is an open-source project designed for beginners to learn by doing. We've purposely added bugs to some code examples, and we're inviting you to fix them!
 
-## Project Overview
+## **Project Overview**
 
-### What's Inside?
+### 🔍 **What's Inside?**
 
-Inside this repository, you'll find a collection of code files filled with intentionally introduced bugs, errors, and issues. Your mission, should you choose to accept it, is to:
+Inside this repository, you'll find code files with intentional bugs. Your mission, should you choose to accept it, is to:
 
-- Identify and fix these bugs
-- Provide clear explanations of the issues and your solutions
-- Write proper commit messages to document your changes
+- 🐞 Identify and fix these bugs.
+- 📝 Explain the issues and your solutions.
+- 📚 Write clear commit messages to document your changes.
 
-This project is perfect for beginners who want to practice coding, learn problem-solving skills, and get hands-on experience with C and C++. Even if you can't fix a bug, explaining what's wrong and how you think it can be resolved is a valuable contribution.
+🤓 While knowing a programming language is helpful, it's not required. What's essential is understanding Git and GitHub.
 
-### Prerequisites
-1. Basic Knowledge of git, GitHub, C and C++
-2. Compilers like gcc, g++ or clang, clang++ on your local system
-3. Internet Connection for downloading resources
+## **Prerequisites**
 
+1. 🧑 💻 Basic understanding of Git and GitHub.
+2. 🤓 Familiarity with at least one programming language (basic knowledge is enough).
+3. 🌐 Internet connection for downloading resources.
 
-## Contributing
+## **Contributing**
 
-We welcome contributions from the community to help identify and fix bugs in the code. Please follow the guidelines below for contributing.
+We welcome contributions from the community to help identify and fix bugs in the code. Here's how you can get involved:
 
-### For Experienced Git Users
+### **For Experienced Git Users**
 
-1. Fork the repository on GitHub.
-2. Clone your forked repository to your local machine:
+1. 🍴 Fork the repository on GitHub.
+2. 💻 Clone your forked repository to your computer.
 
    ```bash
    git clone https://github.com/your-username/fossinit.git
    ```
 
-3. Create a new branch for your changes:
+3. 🌿 Create a new branch for your changes.
 
     ```bash
     git checkout -b bug-fix-branch-rollno # or any other name you like, but relevant
     ```
     
-4. Make your code changes and commit them with descriptive commit messages:
+4. 🛠️ Make your code changes and commit them with clear messages.
 
     ```bash
-    git commit -m "fixup: describe what you fixed"
+    git commit -m "fix: describe what you fixed"
     ```
 
-5. Push your changes to your forked repository:
+5. 🚀 Push your changes to your forked repository.
 
     ```bash
     git push origin bug-fix-branch
     ```
 
-6. Create a Pull Request (PR) on GitHub, including a clear description of the bug and your fix.
+6. 🔄 Create a Pull Request (PR) on GitHub, including a clear description of the bug and your fix.
 
-### For Contributors Not Familiar with Git CLI
+### **For Contributors Not Familiar with Git CLI**
 
-If you're not familiar with the Git command line interface, you can still contribute using the GitHub web interface:
+1. 🍴 Click the "Fork" button at the top right of this repository to create your own copy. (If you have already forked, ensure that you sync the repository by going to  https://github.com/your-username/fossinit.git and then click on *sync* option present at the top)
+2. 🌐 Make your code changes directly in your forked repository using the GitHub web interface.
+3. 📝 Describe your changes and commit them.
+4. 🚀 Create a Pull Request (PR) on the original repository by clicking the "New Pull Request" button.
+5. 📄 Provide a clear description of the bug and your fix in the PR description.
+6. 📤 Submit the PR for review.
 
-1. Click the "Fork" button at the top right of this repository to create your own copy. (If you have already forked, ensure that you sync the repository by going to  https://github.com/your-username/fossinit.git and then click on *sync* option present at the top)
-2. Make your code changes directly in your forked repository using the GitHub web interface by navigating to the file you want to edit and clicking the "Edit" button (pencil icon).
-3. Describe your changes in the provided text area and commit your changes.
-4. After committing your changes, create a Pull Request (PR) on the original repository by clicking the "New Pull Request" button on the main repository page.
-5. Provide a clear description of the bug and your fix in the PR description.
-6. Submit the PR for review.
+### **Adding New Buggy Codes**
 
-This way, you can contribute to the project without needing to use the Git CLI.
+If you want to add more buggy code examples to this repository, follow these steps:
 
-## Bug Reporting
+1. 🍴 Fork the repository on GitHub.
+2. 💻 Clone your forked repository to your computer.
 
-If you encounter a bug in the code that you can't fix, please open a new issue on GitHub. Provide a detailed description of the problem, including any error messages you received.
+   ```bash
+   git clone https://github.com/your-username/fossinit.git
+   ```
 
-## License
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+3. 🌿 Create a new branch for your new buggy code.
+
+    ```bash
+    git checkout -b new-bug-branch
+    ```
+    
+4. ➕ Add your new buggy code files to the repository.
+5. 🛠️ Commit your changes with descriptive messages.
+
+    ```bash
+    git commit -m "add: description of the new buggy code"
+    ```
+
+6. 🚀 Push your changes to your forked repository.
+
+    ```bash
+    git push origin new-bug-branch
+    ```
+
+7. 🔄 Create a Pull Request (PR) on GitHub, providing details about the new buggy code and its purpose.
+
+This way, you can contribute by both fixing existing bugs and adding new ones for others to tackle.
+
+## **Bug Reporting**
+
+If you come across a bug in the code that you can't fix or if you'd like to report a new bug, please open a new issue on GitHub. Describe the problem, including any error messages you received.
+
+## **License**
+
+This project is licensed under the Apache License 2.0. See the LICENSE file for details. 📜
