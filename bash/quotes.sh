@@ -1,0 +1,1 @@
+echo "This is a "quoted" word." # But the string should ends with first closing " quote.
