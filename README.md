@@ -108,7 +108,7 @@ This project is licensed under the Apache License 2.0. See the LICENSE file for 
 
 ## ✨ Contributors
 
-<a href="https://github.com/rootCircle/symmetrical-octo-spork/graphs/contributors">
+<a href="https://github.com/rootCircle/WhyTheHeck/graphs/contributors">
   <img alt="Grid of profile icons of the contributors" src="https://contrib.rocks/image?repo=rootCircle/WhyTheHeck" />
 </a>
 <!--  https://contrib.rocks -->
